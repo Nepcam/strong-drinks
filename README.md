@@ -145,4 +145,4 @@ On the listing page, add an _admin_ link that goes to a kind of Admin Portal use
 
 Hopefully this exercise has given you an opportunity to become more comfortable and confident with React and managing a store with Redux.
 
-
+My commits aren't being counted on my github profile
